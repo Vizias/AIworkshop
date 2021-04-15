@@ -15,6 +15,6 @@ The dataset consisted of 21 variables and 21613 observations.
 ## Deep Learning
 This tutorial demonstrates using Keras (https://keras.io/) to build a TensorFlow-based model for recognizing handwritten digits. This walkthough builds the most basic type of deep nerual network, a mulit-layer perceptron (MLP), consisting of:
 
-1 input layer of 784 neurons
-2 hidden layers of 512 neurons each, with randomized dropout
-1 output layer of 10 neurons
+* 1 input layer of 784 neurons
+* 2 hidden layers of 512 neurons each, with randomized dropout
+* 1 output layer of 10 neurons
